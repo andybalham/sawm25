@@ -1,0 +1,8 @@
+albumName: FAWM 20XX
+songs:
+  - title: Song Title 01
+    mp3Filename: song-title-01
+    notes: "Song notes 01"
+  - title: Song Title 02
+    mp3Filename: song-title-02
+    notes: "Song notes 02"

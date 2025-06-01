@@ -1,8 +1,6 @@
-albumName: FAWM 20XX
+albumName: SAWC 2025
 songs:
-  - title: Song Title 01
-    mp3Filename: song-title-01
-    notes: "Song notes 01"
-  - title: Song Title 02
-    mp3Filename: song-title-02
-    notes: "Song notes 02"
+  - title: Bongo Weasel
+    mp3Filename: ab-bongo-weasel
+    notes: |
+      Simply inspired by a preset on my new synth called 'Bongo Weasel'. Mustela is a reference to the genus of the weasel.
